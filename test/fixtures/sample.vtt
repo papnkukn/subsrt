@@ -1,0 +1,41 @@
+WEBVTT
+
+NOTE
+This file was written by Jill. I hope
+you enjoy reading it. Some things to
+bear in mind:
+- I was lip-reading, so the cues may
+not be 100% accurate
+- I didn’t pay too close attention to
+when the cues should start or end.
+
+STYLE
+::cue {
+  background-image: linear-gradient(to bottom, dimgray, lightgray);
+  color: papayawhip;
+}
+/* Style blocks cannot use blank lines nor "dash dash greater than" */
+
+00:01.000 --> 00:04.000
+— Hi, my name is Alice Miller and this is John Brown.
+— And we're the owners of Miller Bakery.
+
+NOTE check next cue
+
+00:05.000 --> 00:09.000
+Today we'll be teaching you how to make
+our famous chocolate chip cookies!
+
+test
+00:20.000 --> 00:22.000
+This is a test.
+
+123
+00:22.000 --> 00:24.000
+That’s an, an, that’s an L!
+
+crédit de transcription
+00:24.000 --> 00:30.000
+Okay, so we have all the ingredients laid out here
+
+NOTE end of file

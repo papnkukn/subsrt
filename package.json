@@ -1,0 +1,21 @@
+{
+  "name": "subsrt",
+  "description": "Subtitle converter",
+  "version": "1.0.0",
+  "author": "Papn Kukn",
+  "license": "MIT",
+  "main": "lib/subsrt.js",
+  "bin": {
+    "subsrt": "bin/subsrt.js"
+  },
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/papnkukn/subsrt"
+  },
+  "bugs": {
+    "url": "https://github.com/papnkukn/subsrt/issues"
+  }
+}

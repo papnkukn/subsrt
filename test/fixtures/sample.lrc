@@ -1,0 +1,17 @@
+[ar:Lyrics artist]
+[al:Album where the song is from]
+[ti:Lyrics (song) title]
+[au:Creator of the Songtext]
+[length:How long the song is]
+[by:Creator of the LRC file]
+[offset:+/- Overall timestamp adjustment in milliseconds, + shifts time up, - shifts down]
+ 
+[re:The player or editor that created the LRC file]
+[ve:version of program]
+
+[00:12.00]Line 1 lyrics
+[00:17.20]F: Line 2 lyrics
+[00:21.10]M: Line 3 lyrics
+[00:24.00]Line 4 lyrics
+[00:28.25]D: Line 5 lyrics
+[00:29.02]Line 6 lyrics

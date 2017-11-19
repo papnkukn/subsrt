@@ -1,0 +1,47 @@
+[
+  {
+    "type": "caption",
+    "index": 1,
+    "start": 599,
+    "end": 4160,
+    "duration": 3561,
+    "content": ">> ALICE: Hi, my name is Alice Miller and this is John Brown",
+    "text": "Hi, my name is Alice Miller and this is John Brown"
+  },
+  {
+    "type": "caption",
+    "index": 2,
+    "start": 4160,
+    "end": 6770,
+    "duration": 2610,
+    "content": ">> JOHN: and we're the owners of Miller Bakery.",
+    "text": "and we're the owners of Miller Bakery."
+  },
+  {
+    "type": "caption",
+    "index": 3,
+    "start": 6770,
+    "end": 10880,
+    "duration": 4110,
+    "content": ">> ALICE: Today we'll be teaching you how to make\r\nour famous chocolate chip cookies!",
+    "text": "Today we'll be teaching you how to make\r\nour famous chocolate chip cookies!"
+  },
+  {
+    "type": "caption",
+    "index": 4,
+    "start": 10880,
+    "end": 16700,
+    "duration": 5820,
+    "content": "[intro music]",
+    "text": "[intro music]"
+  },
+  {
+    "type": "caption",
+    "index": 5,
+    "start": 16700,
+    "end": 21480,
+    "duration": 4780,
+    "content": "Okay, so we have all the ingredients laid out here",
+    "text": "Okay, so we have all the ingredients laid out here"
+  }
+]

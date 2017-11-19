@@ -1,0 +1,20 @@
+1
+00:00:00,599 --> 00:00:04,160
+>> ALICE: Hi, my name is Alice Miller and this is John Brown
+
+2
+00:00:04,160 --> 00:00:06,770
+>> JOHN: and we're the owners of Miller Bakery.
+
+3
+00:00:06,770 --> 00:00:10,880
+>> ALICE: Today we'll be teaching you how to make
+our famous chocolate chip cookies!
+
+4
+00:00:10,880 --> 00:00:16,700
+[intro music]
+
+5
+00:00:16,700 --> 00:00:21,480
+Okay, so we have all the ingredients laid out here
