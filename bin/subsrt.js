@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-require('../subsrt.js');
+require('../lib/subsrt.js');
